@@ -7,6 +7,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 •	PowerPoint
 🧠 Prompts
 ChatGPT：
+
 Preparatório: 	
 - Imagine que irá criar um ebook sobre planejamento financeiro, quer irá abordar também produtos de seguridade e sua importância de acordo com a fase da vida do indivíduo. Esse ebook tem como público-alvo jovens da geração Z, que são recém ingressos no mercado de trabalho ou ingressarão em um futuro próximo. Considere que eu seu o cliente que está te demandando esse ebook. Me faça uma entrevista solicitando mais informações sobre minhas expectativas com esse trabalho, para que possa me fornecer o material solicitado mais próximo da expectativa do cliente.
 - Com enfoque nas questões necessárias para a criação do conteúdo desse ebook - pode desconsiderar partes como prazo ou design, conduza de fato essa entrevista comigo até que todas as questões estejam claras para a criação de conteúdo
