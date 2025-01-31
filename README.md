@@ -21,6 +21,7 @@ Com enfoque nas questões necessárias para a criação do conteúdo desse ebook
 Gostaria de algumas sugestões sobre a parte gráfica. considerando tudo que foi decidido até aqui, quais sugestões você me daria na hora de escolher os desenhos que irão compor esse ebook?
 
 Para a construção do Prompt usado no Meta AI:
+
 Gostei das ideias de Jovens planejando no computador ou celular e Ícones de metas como viagens, casas, ou negócios. Me ajude a construir um prompt em inglês para utilizar no midjorney que seja bastante eficaz.
 Título:
 Quero começar com o título. Quero que tenha título e subtítulo,  que seja curto, autêntico e impactante, e que converse com o público alvo. Me dê 5 sugestões
