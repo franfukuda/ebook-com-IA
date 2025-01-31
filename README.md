@@ -23,8 +23,10 @@ Quero começar com o título. Quero que tenha título e subtítulo,  que seja cu
 
 Conteúdo:
 estou pronta para iniciarmos o conteúdo do ebook. O conteúdo será como discutimos acima. 
+
 {regras}
- >explique sempre de maneira simples 
+
+>explique sempre de maneira simples 
 >deixe o texto enxuto 
 >sempre deixe um texto sugestivo por tópico
 
