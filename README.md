@@ -22,13 +22,14 @@ Título:
 Quero começar com o título. Quero que tenha título e subtítulo,  que seja curto, autêntico e impactante, e que converse com o público alvo. Me dê 5 sugestões
 
 Conteúdo:
+
 estou pronta para iniciarmos o conteúdo do ebook. O conteúdo será como discutimos acima. 
 
 {regras}
 
->explique sempre de maneira simples 
->deixe o texto enxuto 
->sempre deixe um texto sugestivo por tópico
+explique sempre de maneira simples 
+deixe o texto enxuto 
+sempre deixe um texto sugestivo por tópico
 
 Meta AI do Whatsapp:
 
@@ -37,10 +38,14 @@ Prompt criado pelo ChatGPT
 @Meta AI "A group of diverse young adults (early 20s) sitting at a table, using laptops, tablets, and smartphones to plan their finances. The atmosphere is modern and upbeat, with a focus on collaboration and organization. On the table, there are notebooks, colorful sticky notes, and charts with icons of goals like a plane (travel), a house, and a small business. The setting is bright and cozy, with natural lighting and vibrant colors, creating an inspiring and relatable vibe. Style: minimalistic, clean lines, and vector-style illustration, professional yet approachable”
 
 ✨ Features
+
 •	Conteúdo gerado via ChatGPT
 •	Imagens geradas via Meta IA do Whatsapp
+
 📚 Materiais
 •	ebook gerado durante a aula Criando um Ebook com ChatGPT & MidJourney do curso ministrada por Felipe Aguiar no curso CAIXA - IA Generativa com Microsoft Copilot
+
+
 🛠️ Instruções de execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice, indesign para diagramação.
 
