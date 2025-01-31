@@ -25,7 +25,9 @@ estou pronta para iniciarmos o conteúdo do ebook. O conteúdo será como discut
 >sempre deixe um texto sugestivo por tópico
 
 Meta AI do Whatsapp:
+
 Prompt criado pelo ChatGPT
+
 @Meta AI "A group of diverse young adults (early 20s) sitting at a table, using laptops, tablets, and smartphones to plan their finances. The atmosphere is modern and upbeat, with a focus on collaboration and organization. On the table, there are notebooks, colorful sticky notes, and charts with icons of goals like a plane (travel), a house, and a small business. The setting is bright and cozy, with natural lighting and vibrant colors, creating an inspiring and relatable vibe. Style: minimalistic, clean lines, and vector-style illustration, professional yet approachable”
 
 ✨ Features
